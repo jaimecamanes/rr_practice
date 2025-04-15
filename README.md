@@ -20,6 +20,9 @@ We used a bead beating DNA extraction kit. We amplified the V4 region of the 16S
 
 
 ## Discussion
+1. Other way to make a **list** is by using the number *1* for every item in the list, so that if we want to add a new item in between, the *numeration* gets updated automatically
+1. See the following ***examples***
+1. More and more
 
 
 ## Conclusion
